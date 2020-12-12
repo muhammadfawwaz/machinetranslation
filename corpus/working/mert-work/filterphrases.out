@@ -1,2 +1,0 @@
-To run the decoder, please call:
-  moses -f /home/aufa/corpus/working/mert-work/filtered/moses.ini -i /home/aufa/corpus/working/mert-work/filtered/input.4096
